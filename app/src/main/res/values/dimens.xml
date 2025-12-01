@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Slider dimensions -->
+    <dimen name="slider_halo_radius">18dp</dimen>
+    
+    <!-- Touch targets -->
+    <dimen name="min_touch_target">48dp</dimen>
+    
+    <!-- Spacing -->
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+</resources>
+

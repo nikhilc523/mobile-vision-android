@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- For future log export functionality -->
+    <files-path
+        name="logs"
+        path="logs/" />
+    <cache-path
+        name="cache"
+        path="." />
+</paths>
+

@@ -1,0 +1,73 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio
+*.iml
+.idea/
+.navigation/
+captures/
+
+# External native build folder
+.externalNativeBuild
+.cxx/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Backup files
+*.bak
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Development artifacts (exclude from repo)
+CONFIDENCE_THRESHOLD_FIX.md
+CONVERSION_COMPLETE.md
+COORDINATE_ORDER_FIX.md
+FIXES_APPLIED.md
+INTEGRATION_COMPLETE.md
+MOVENET_INTEGRATION_GUIDE.md
+MOVENET_SWITCH_SUMMARY.md
+QUICK_START_MOVENET.md
+README_MOVENET_SWITCH.md
+ZERO_KEYPOINTS_FIX.md
+SETUP_INSTRUCTIONS.md
+START_HERE.md
+export/
+Fall-Detection-master/
+convert_movenet_to_tflite.py
+diagnose_preprocessing.py
+test_movenet_tflite.py
+setup_movenet.sh
