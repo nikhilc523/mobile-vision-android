@@ -2,9 +2,6 @@
 
 ## Document Information
 
-**Project:** Fall Detection Android Application  
-**Course:** CS663 Mobile Vision  
-**Date:** December 1, 2024  
 **Status:** Functional - ML Model Works Great!
 
 ---
@@ -444,8 +441,6 @@ private fun checkForFall(probability: Float) {
 
 ---
 
-## TECHNICAL NOTES FOR PROFESSOR
-
 ### Important Clarification
 
 **The ML model works really great!** ✅
@@ -507,10 +502,5 @@ private fun checkForFall(probability: Float) {
 
 **Bottom line:** The **ML model works really great!** The two issues are related to TFLite deployment and temporal sequence design, not model quality. Both have been addressed with appropriate workarounds.
 
----
 
-**Document Version:** 2.0  
-**Last Updated:** December 1, 2024  
-**Status:** Complete  
-**Code Status:** ✅ Functional - ML Model Excellent!
 
