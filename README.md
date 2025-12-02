@@ -483,7 +483,7 @@ The following TFLite models must be present in `app/src/main/assets/`:
 The app uses Google's Gemini AI for posture analysis. The API key is currently hardcoded in `GeminiPostureAnalyzer.kt`:
 
 ```kotlin
-val apiKey = "AIzaSyCzLatfZs4ULYiRFFKvrb1NyQrMDxP7ubI"
+val apiKey = "your api key"
 ```
 
 **For Production:** Move this to `local.properties` or use BuildConfig:
