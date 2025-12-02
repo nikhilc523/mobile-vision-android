@@ -1,9 +1,4 @@
-# Fall Detection & Posture Monitoring App
-
-**CS663 Mobile Vision Project**
-**Author:** Nikhil Chowdary
-**Repository:** https://github.com/nikhilc523/mobile-vision-android
-
+# Fall Detection & Posture Monitoring App With Emergency Contact Alerts
 ---
 
 ## 📋 Project Overview
